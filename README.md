@@ -1,6 +1,21 @@
 # Excel for Data Analysts — 4-Week Roadmap
 
+### Final Output
+ **Learning Objectives:**
+- Clean and transform datasets using Power Query  
+- Apply formulas and functions for insightful analysis  
+- Build pivot-driven summaries  
+- Design an interactive Excel dashboard that tells a data story  
+
+---
+
+**Note:**
+*Power Pivot* and *DAX*
+
+---
+
 ## Week 1 — Data Foundations & Cleaning
+
 - Data types (Text, Number, Date, Logical)
 - Importing data (CSV, TXT, Excel files)
 - Removing blanks and duplicates
@@ -8,29 +23,27 @@
 - **Error handling:** IFERROR, ISBLANK, IFNA
 - Data Validation (drop-down lists)
 - Flash Fill for quick transformations
-- Introduction to **Power Query** for basic cleaning automation
+- Introduction to **Power Query** for basic data cleaning automation
 
 ---
 
-## **Week 2 — Essential Formulas & Conditional Analysis**
-**Goal:** Learn the core functions that drive data insights.
+## Week 2 — Essential Formulas & Conditional Formatting
 
 - **Math & Stats:** SUM, AVERAGE, MEDIAN, MODE, COUNT, MAX, MIN, STDEV, VAR
 - **Logical:** IF, IFS, AND, OR
 - **Conditional Calculations:** SUMIF, SUMIFS, AVERAGEIF, AVERAGEIFS, COUNTIFS
-- **Lookup & Reference:** XLOOKUP, INDEX-MATCH
+- **Lookup & Reference:** VLOOKUP, XLOOKUP, INDEX-MATCH
 - **Dynamic Array Functions:** FILTER, SORT, UNIQUE, SEQUENCE
 - **Conditional Formatting:** Highlight trends and outliers
 
 ---
 
-## **Week 3 — Data Exploration & Aggregation**
-**Goal:** Explore, summarise, and analyse datasets efficiently.
+## Week 3 — Data Exploration & Aggregation
 
 - **Pivot Tables**
   - Grouping data
   - Calculated fields
-  - Using slicers for interactivity
+  - Slicers for interactivity
 - **Descriptive Statistics** (with formulas & Data Analysis ToolPak)
 - Sorting and filtering for exploration
 - Quick summaries using subtotals and table references
@@ -38,8 +51,7 @@
 
 ---
 
-## **Week 4 — Visualisation & Dashboard Building**
-**Goal:** Present insights clearly through dynamic visuals.
+## Week 4 — Visualisation & Dashboard Building
 
 - Chart types and use cases:
   - Column, Bar, Line, Pie, Scatter, Histogram, Combo
@@ -50,17 +62,3 @@
   - Minimal colour palette
   - Clear KPI presentation
 - Building a final **Interactive Dashboard Project**
-
----
-
-### ✅ **Final Output**
-By the end of Week 4, you should be able to:
-- Clean and transform datasets using Power Query  
-- Apply formulas and functions for insightful analysis  
-- Build pivot-driven summaries  
-- Design an interactive Excel dashboard that tells a data story  
-
----
-
-**Note:**  
-You can extend this roadmap by adding *Power Pivot* and *DAX* later if you want to move closer to Power BI workflows.
