@@ -1,8 +1,4 @@
 # Excel for Data Analysts — 4-Week Roadmap
-
-A focused 4-week guide to mastering Excel for data analysis — from cleaning and transforming data to analysing and visualising insights.  
-No VBA, no fluff — just modern, practical skills that matter.
-
 ---
 
 ## **Week 1 — Data Foundations & Cleaning**
