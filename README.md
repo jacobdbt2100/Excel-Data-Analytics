@@ -1,11 +1,8 @@
 # Excel for Data Analysts — 4-Week Roadmap
 
 ## Week 1 — Data Foundations & Cleaning
-**Goal:** Build a strong base for handling and preparing raw data.
-
-- Understanding data types (Text, Number, Date, Logical)
+- Data types (Text, Number, Date, Logical)
 - Importing data (CSV, TXT, Excel files)
-- Structuring datasets in tabular form
 - Removing blanks and duplicates
 - **Text functions:** TRIM, CLEAN, LEFT, RIGHT, MID, FIND, LEN, TEXTSPLIT
 - **Error handling:** IFERROR, ISBLANK, IFNA
