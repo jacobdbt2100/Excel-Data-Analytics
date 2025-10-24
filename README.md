@@ -1,7 +1,6 @@
 # Excel for Data Analysts — 4-Week Roadmap
----
 
-## **Week 1 — Data Foundations & Cleaning**
+## Week 1 — Data Foundations & Cleaning
 **Goal:** Build a strong base for handling and preparing raw data.
 
 - Understanding data types (Text, Number, Date, Logical)
