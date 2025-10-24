@@ -8,11 +8,6 @@
 
 ---
 
-**Note:**
-*Power Pivot* and *DAX*
-
----
-
 ## Week 1 — Data Foundations & Cleaning
 
 - Data types (Text, Number, Date, Logical)
@@ -47,6 +42,8 @@
 - Sorting and filtering for exploration
 - Quick summaries using subtotals and table references
 - Combining multiple tables using **Power Query** (Merge & Append)
+- Power Pivot
+- DAX
 
 ---
 
