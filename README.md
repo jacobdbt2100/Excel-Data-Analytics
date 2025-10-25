@@ -10,9 +10,9 @@
 
 ## Week 1 — Data Foundations & Cleaning
 
-- Data types (Text, Number, Date, Logical)
-- Importing data (CSV, TXT, Excel files)
-- Removing blanks and duplicates
+- Data types (Text, Integer, Decimals, Date, Boolean)
+- Duplicates, missing values, invalid data, etc.
+- Importing data (CSV, TXT, Excel files) 
 - **Text functions:** TRIM, CLEAN, LEFT, RIGHT, MID, FIND, LEN, TEXTSPLIT
 - **Error handling:** IFERROR, ISBLANK, IFNA
 - Data Validation (drop-down lists)
