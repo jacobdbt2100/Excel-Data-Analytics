@@ -10,9 +10,8 @@
 
 ## Week 1 — Data Foundations & Cleaning
 
-- Data types (Text, Integer, Decimals, Date, Boolean)
-- Duplicates, missing values, invalid data, etc.
 - Importing data (CSV, TXT, Excel files) 
+- Data types, duplicates, missing values, invalid data, etc.
 - **Text functions:** TRIM, CLEAN, LEFT, RIGHT, MID, FIND, LEN, TEXTSPLIT
 - **Error handling:** IFERROR, ISBLANK, IFNA
 - Data Validation (drop-down lists)
@@ -21,7 +20,7 @@
 
 ---
 
-## Week 2 — Essential Formulas & Conditional Formatting
+## Week 2 — Essential Formulas, Conditional Logic & Formatting
 
 - **Math & Stats:** SUM, AVERAGE, MEDIAN, MODE, COUNT, MAX, MIN, STDEV, VAR
 - **Logical:** IF, IFS, AND, OR
