@@ -29,7 +29,7 @@
   - `Calculated fields:` for quick calculations—ratios, percentages, averages, sums, differences; directly within the pivot table.
   - `Visualization`
 - **Descriptive Statistics** (with formulas & Data Analysis ToolPak)
-- Combining multiple tables using **`Power Query`** (Merge & Append)
+- **Power Query:** combining multiple tables (merge & append)
 - **Power Pivot:** to create relationships between multiple tables for advanced analysis. **`VLOOKUP`** or **`XLOOKUP`** become inefficient with large datasets.
 - **DAX (Data Analysis Expressions):** enables more omplex, dynamic calculations across related tables than **`Calculated fields`** can handle.
 
