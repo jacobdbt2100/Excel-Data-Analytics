@@ -10,18 +10,14 @@
 - Flash Fill for quick transformations
 - Introduction to **Power Query** for basic data cleaning automation
 
----
-
-## Week 2 — Essential Formulas, Conditional Logic & Formatting
+## Week 2 — Functions & Conditional Formatting
 
 - **Math & Stats:** SUM, AVERAGE, MEDIAN, MODE, COUNT, MAX, MIN, STDEV, VAR
 - **Logical:** IF, IFS, AND, OR
-- **Conditional Calculations:** SUMIF, SUMIFS, AVERAGEIF, AVERAGEIFS, COUNTIFS
+- **Conditional:** SUMIF, SUMIFS, AVERAGEIF, AVERAGEIFS, COUNTIFS
 - **Lookup & Reference:** VLOOKUP, XLOOKUP, INDEX-MATCH
 - **Dynamic Array Functions:** FILTER, SORT, UNIQUE, SEQUENCE
 - **Conditional Formatting:** Highlight trends and outliers
-
----
 
 ## Week 3 — Data Exploration & Aggregation
 
@@ -35,8 +31,6 @@
 - Combining multiple tables using **Power Query** (Merge & Append)
 - Power Pivot
 - DAX
-
----
 
 ## Week 4 — Visualisation & Dashboard Building
 
