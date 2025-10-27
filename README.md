@@ -1,13 +1,5 @@
 # Excel for Data Analysts — 4-Week Roadmap
 
-### Learning Objectives:
-- Clean and transform datasets using Power Query  
-- Apply formulas and functions for insightful analysis  
-- Build pivot-driven summaries  
-- Design an interactive Excel dashboard that tells a data story  
-
----
-
 ## Week 1 — Data Foundations & Cleaning
 
 - Importing data (CSV, TXT, Excel files) 
