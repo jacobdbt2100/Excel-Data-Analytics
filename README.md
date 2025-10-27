@@ -1,14 +1,15 @@
 # Excel for Data Analysts — 4-Week Roadmap
 
-## Week 1 — Data Foundations & Cleaning
+## Week 1 — Data Cleaning & Transformation
 
 - Importing data (CSV, TXT, Excel files) 
 - Data types, duplicates, missing values, invalid data, etc.
 - **Text functions:** TRIM, CLEAN, LEFT, RIGHT, MID, FIND, LEN, TEXTSPLIT
 - **Error handling:** IFERROR, ISBLANK, IFNA
+- Combining text columns using CONCATENATE
 - Data Validation (drop-down lists)
 - Flash Fill for quick transformations
-- Introduction to **Power Query** for basic data cleaning automation
+- Introduction to **`Power Query`** for automated data cleaning & transformation
 
 ## Week 2 — Functions & Conditional Formatting
 
@@ -19,19 +20,18 @@
 - **Dynamic Array Functions:** FILTER, SORT, UNIQUE, SEQUENCE
 - **Conditional Formatting:** Highlight trends and outliers
 
-## Week 3 — Data Exploration & Aggregation
+## Week 3 — Data Exploration
 
 - **Pivot Tables & Charts**: a data summarization tool to aggregate and filter data in a spreadsheet. Key features:
-  - Grouping data
-  - Filtering & Slicing
-  - Sorting
-  - Calculated fields
-  - Calculation updates on refresh
-  - Visualization
+  - `Grouping data`
+  - `Filtering & Slicing`
+  - `Sorting`
+  - `Calculated fields:` for quick calculations—ratios, percentages, averages, sums, differences; directly within the pivot table.
+  - `Visualization`
 - **Descriptive Statistics** (with formulas & Data Analysis ToolPak)
 - Combining multiple tables using **`Power Query`** (Merge & Append)
-- Power Pivot
-- DAX
+- **Power Pivot:** to create relationships between multiple tables for advanced analysis. **`VLOOKUP`** or **`XLOOKUP`** become inefficient with large datasets.
+- **DAX (Data Analysis Expressions):** enables more omplex, dynamic calculations across related tables than **`Calculated fields`** can handle.
 
 ## Week 4 — Visualization & Dashboard Building
 
