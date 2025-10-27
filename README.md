@@ -29,7 +29,7 @@
   - Calculation updates on refresh
   - Visualization
 - **Descriptive Statistics** (with formulas & Data Analysis ToolPak)
-- Combining multiple tables using `Power Query` (Merge & Append)
+- Combining multiple tables using **`Power Query`** (Merge & Append)
 - Power Pivot
 - DAX
 
