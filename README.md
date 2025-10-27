@@ -21,18 +21,19 @@
 
 ## Week 3 — Data Exploration & Aggregation
 
-- **Pivot Table**: a data summarization tool to aggregate and filter data in a spreadsheet. Key features:
+- **Pivot Tables & Charts**: a data summarization tool to aggregate and filter data in a spreadsheet. Key features:
   - Grouping data
+  - Filtering & Slicing
+  - Sorting
   - Calculated fields
-  - Slicers for interactivity
+  - Calculation updates on refresh
+  - Visualization
 - **Descriptive Statistics** (with formulas & Data Analysis ToolPak)
-- Sorting and filtering for exploration
-- Quick summaries using subtotals and table references
-- Combining multiple tables using **Power Query** (Merge & Append)
+- Combining multiple tables using `Power Query` (Merge & Append)
 - Power Pivot
 - DAX
 
-## Week 4 — Visualisation & Dashboard Building
+## Week 4 — Visualization & Dashboard Building
 
 - Chart types and use cases:
   - Column, Bar, Line, Pie, Scatter, Histogram, Combo
