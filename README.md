@@ -33,7 +33,7 @@
 
 ## Week 3 — Data Exploration & Aggregation
 
-- **Pivot Tables**
+- **Pivot Table**: a data summarization tool to aggregate and filter data in a spreadsheet.
   - Grouping data
   - Calculated fields
   - Slicers for interactivity
