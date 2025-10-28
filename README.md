@@ -43,4 +43,4 @@
   - Layout consistency
   - Minimal colour palette
   - Clear KPI presentation
-- Final **Interactive Dashboard** Project
+- Final **interactive dashboard** project
