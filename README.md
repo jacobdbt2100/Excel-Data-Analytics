@@ -1,6 +1,6 @@
 # Excel for Data Analysts — 4-Week Roadmap
 
-## Week 1 — Data Cleaning & Transformation
+## Week 1 — Excel Basics, Data Cleaning & Transformation
 
 - Importing data (CSV, TXT, Excel files) 
 - Data types, duplicates, missing values, invalid data, etc.
