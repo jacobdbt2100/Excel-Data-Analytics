@@ -44,3 +44,13 @@
   - Minimal colour palette
   - Clear KPI presentation
 - Final **interactive dashboard** project
+
+### MISCELLANEOUS
+
+#### `Append vs Merge in Power Query:`
+
+| **Aspect**       | **Append Queries**                                                                         | **Merge Queries**                                                                                       |
+| ---------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
+| **Purpose**      | Combines **rows** from two or more tables.                                                 | Combines **columns** from two tables based on a matching field.                                         |
+| **What it does** | Stacks tables **on top of each other** (like adding more records).                         | Joins tables **side by side** using a common key (like a lookup).                                       |
+| **When to use**  | When tables have **the same columns** and you want to add more data (e.g., monthly files). | When you need to **bring related details** from another table (e.g., add customer names to sales data). |
